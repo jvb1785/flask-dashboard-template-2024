@@ -15,7 +15,7 @@ Make a copy of the template repository from GitHub. Clone your copy of the repo 
 Navigate to the local repository from the command line, for example:
 
 ```sh
-cd ~/Desktop/flask-dashboard-template-2024
+cd ~/OneDrive/Documents/GitHub/flask-dashboard-template-2024
 ```
 
 > NOTE: it is important to navigate to the root directory before running any of the commands below.
